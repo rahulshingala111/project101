@@ -1,0 +1,23 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    display: inline;
+    display: flex;
+    
+}
+.sec-logo{
+   width: 70%;
+    
+}
+.sec-nac{
+    display: flex;
+    width: 600px;
+    
+}
+.btn{
+    padding: 5px 10px;
+}
+
+
+
